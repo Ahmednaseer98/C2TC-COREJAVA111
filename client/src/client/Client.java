@@ -1,29 +1,13 @@
 package client;
 
-import java.time.LocalDate;
-
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
-
 import crudoperation.entities.Admin;
-import crudoperation.entities.Certificate;
-import crudoperation.entities.College;
-import crudoperation.entities.Placement;
 import crudoperation.entities.Student;
-import crudoperation.entities.User;
 import crudoperation.service.AdminService;
-import crudoperation.service.AdminServiceImpl;
 import crudoperation.service.CertificateService;
-import crudoperation.service.CertificateServiceImpl;
 import crudoperation.service.CollegeService;
-import crudoperation.service.CollegeServiceImpl;
-import crudoperation.service.PlacementService;
-import crudoperation.service.PlacementServiceImpl;
 import crudoperation.service.StudentService;
 import crudoperation.service.StudentServiceImpl;
 import crudoperation.service.UserService;
-import crudoperation.service.UserServiceImpl;
 
 public class Client {
 
