@@ -3,7 +3,7 @@ package crudoperation.dao;
 import javax.persistence.EntityManager;
 
 
-import crudoperation.entities.User;
+
 
 public interface UserDAO {
 

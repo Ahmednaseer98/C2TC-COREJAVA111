@@ -9,9 +9,9 @@
 		<properties>
 			
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
-            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/b3tns" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/naseerdb1" />
             <property name="javax.persistence.jdbc.user" value="root" />
-            <property name="javax.persistence.jdbc.password" value="Rosh@n1999" />
+            <property name="javax.persistence.jdbc.password" value="9885922578" />
        
 			<property name="hibernate.hbm2ddl.auto" value="update"/>	<!-- for auto create/update tables -->
 		</properties>

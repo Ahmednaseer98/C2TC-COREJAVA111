@@ -1,4 +1,4 @@
-package crudoperation.entities;
+package crudoperation.dao;
 
 import java.io.Serializable;
 import java.util.Set;

@@ -1,7 +1,7 @@
-package crudoperation.service;
+package Service;
 
 import crudoperation.dao.AdminDAO;
-import crudoperation.entities.Admin;
+
 
 
 public interface AdminService {

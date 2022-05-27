@@ -2,7 +2,7 @@ package crudoperation.dao;
 
 import javax.persistence.EntityManager;
 
-import crudoperation.entities.Placement;
+
 
 public class PlacementDAOImpl  implements PlacementDAO{
 	private EntityManager em;

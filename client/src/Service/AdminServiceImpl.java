@@ -1,9 +1,9 @@
-package crudoperation.service;
+package Service;
 
 import crudoperation.dao.AdminDAO;
 import crudoperation.dao.AdminDAOImpl;
 
-import crudoperation.entities.Admin;
+
 
 public class AdminServiceImpl implements AdminService {
 	private AdminDAO dao;

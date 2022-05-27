@@ -3,7 +3,7 @@ package crudoperation.dao;
 import javax.persistence.EntityManager;
 
 
-import crudoperation.entities.Placement;
+
 
 public interface PlacementDAO {
 	

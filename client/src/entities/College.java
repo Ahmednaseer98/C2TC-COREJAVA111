@@ -1,4 +1,4 @@
-=package crudoperation.entities;
+package entities;
 
 import java.io.Serializable;
 

@@ -1,7 +1,6 @@
-package crudoperation.service;
+package Service;
 
 
-import crudoperation.entities.College;
 
 public interface CollegeService {
 	College findByCollegeId(long collegeId);

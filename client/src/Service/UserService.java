@@ -1,7 +1,7 @@
-package crudoperation.service;
+package Service;
 
 
-import crudoperation.entities.User;
+
 
 public interface UserService  {
 	User findByUserId(long UserId);

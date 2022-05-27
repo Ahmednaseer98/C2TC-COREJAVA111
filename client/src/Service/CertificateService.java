@@ -1,7 +1,7 @@
-package crudoperation.service;
+package Service;
 
 
-import crudoperation.entities.Certificate;
+
 
 public interface CertificateService{
 	Certificate findByCertificateId(int studentid);

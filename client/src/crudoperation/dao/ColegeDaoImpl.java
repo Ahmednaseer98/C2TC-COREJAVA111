@@ -2,7 +2,7 @@ package crudoperation.dao;
 
 import javax.persistence.EntityManager;
 
-import crudoperation.entities.College;
+
 
 public class CollegeDAOImpl implements CollegeDAO{
 	private EntityManager em;

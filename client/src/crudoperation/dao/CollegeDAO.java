@@ -1,7 +1,7 @@
 package crudoperation.dao;
 
 import javax.persistence.EntityManager;
-import crudoperation.entities.College;
+
 
 public interface CollegeDAO {
 	College getCollegeById(long collegeId);

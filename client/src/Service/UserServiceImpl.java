@@ -1,10 +1,9 @@
-package crudoperation.service;
+package Service;
 
 
 import crudoperation.dao.UserDAO;
 import crudoperation.dao.UserDAOImpl;
 
-import crudoperation.entities.User;
 
 public class UserServiceImpl  implements UserService {
 	private UserDAO dao;

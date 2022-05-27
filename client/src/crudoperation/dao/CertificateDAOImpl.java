@@ -2,7 +2,7 @@ package crudoperation.dao;
 
 import javax.persistence.EntityManager;
 
-import crudoperation.entities.Certificate;
+
 
 public class CertificateDAOImpl implements CertificateDAO{
 	private EntityManager em;

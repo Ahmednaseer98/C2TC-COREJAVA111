@@ -1,6 +1,5 @@
-package crudoperation.service;
+package Service;
 
-import crudoperation.entities.Student;
 
 public interface StudentService {
 	Student findStudentById(int id);

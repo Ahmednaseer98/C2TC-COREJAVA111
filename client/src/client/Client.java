@@ -1,13 +1,5 @@
 package client;
 
-import crudoperation.entities.Admin;
-import crudoperation.entities.Student;
-import crudoperation.service.AdminService;
-import crudoperation.service.CertificateService;
-import crudoperation.service.CollegeService;
-import crudoperation.service.StudentService;
-import crudoperation.service.StudentServiceImpl;
-import crudoperation.service.UserService;
 
 public class Client {
 

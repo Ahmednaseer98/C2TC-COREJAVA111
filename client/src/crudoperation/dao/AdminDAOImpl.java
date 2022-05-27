@@ -2,7 +2,7 @@ package crudoperation.dao;
 
 import javax.persistence.EntityManager;
 
-import crudoperation.entities.Admin;
+
 
 public class AdminDAOImpl implements AdminDAO{
 	private EntityManager em;
